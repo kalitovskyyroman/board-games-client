@@ -21,6 +21,12 @@
                 "namedComponents": "arrow-function",
                 "unnamedComponents": "arrow-function"
             }
+        ],
+        "react/jsx-sort-props": [
+            2,
+            {
+                "shorthandLast": true
+            }
         ]
     },
     "settings": { "import/resolver": { "typescript": {} } }
